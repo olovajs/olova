@@ -9,8 +9,7 @@
 - Dynamic State Management: Manage and update your state with ease.
 - Explore more and start building with DeshiJS today! 🚀
 
-
-![DeshiJS Logo](https://i.postimg.cc/Pq1ZWCg3/Black-and-White-Initial-D-Creative-Studio-Logo.png)
+<img src="https://i.postimg.cc/Pq1ZWCg3/Black-and-White-Initial-D-Creative-Studio-Logo.png" alt="DeshiJS Logo" height="150">
 
 ---
 
