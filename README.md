@@ -5,11 +5,8 @@
 # Features
 
 - Smooth Integration: Easy-to-use framework for adding dynamic functionality to your JavaScript projects.
-
 - Minimalistic Design: Focus on what matters with a clean and simple setup.
-
 - Dynamic State Management: Manage and update your state with ease.
-
 - Explore more and start building with DeshiJS today! 🚀
 
 
