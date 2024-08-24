@@ -28,4 +28,4 @@
 </script>
 
 
-author: [Nazmul Hossain](https://www.facebook.com/codervai)
+author: Nazmul Hossain
