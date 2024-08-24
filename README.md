@@ -1,16 +1,28 @@
 ## Hi there 👋
+### Welcome to the sleek and minimal framework that brings dynamic behavior to JavaScript! ✨
 
-## A smooth, minimal framework for infusing JavaScript with dynamic behaviorA smooth, minimal framework for infusing JavaScript with dynamic behavior
+---
+# Features
 
-![](https://i.postimg.cc/Pq1ZWCg3/Black-and-White-Initial-D-Creative-Studio-Logo.png)
+- Smooth Integration: Easy-to-use framework for adding dynamic functionality to your JavaScript projects.
 
+- Minimalistic Design: Focus on what matters with a clean and simple setup.
+
+- Dynamic State Management: Manage and update your state with ease.
+
+- Explore more and start building with DeshiJS today! 🚀
+
+
+![DeshiJS Logo](https://i.postimg.cc/Pq1ZWCg3/Black-and-White-Initial-D-Creative-Studio-Logo.png)
+
+---
 
 ```html
 <script src="https://cdn.jsdelivr.net/gh/DeshiJS/DeshiJS@main/dev/v1.js" defer></script>
-  <div $data='{"count": 10}'>
- <p $text="{count}"></p>
- <button on:click="incrementCount">Increase Count</button>
- </div>
+<div $data='{"count": 10}'>
+  <p $text="{count}"></p>
+  <button on:click="incrementCount">Increase Count</button>
+</div>
 
 <script>
   const $ = {}
@@ -18,4 +30,4 @@
     $.count++;
   }
 </script>
-```
+
