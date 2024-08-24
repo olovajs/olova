@@ -32,6 +32,6 @@
     $.count++;
   }
 </script>
+```
 
-
-author: Nazmul Hossain
+author: [Nazmul Hossain](https://www.facebook.com/codervai)
