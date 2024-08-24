@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="https://i.postimg.cc/Pq1ZWCg3/Black-and-White-Initial-D-Creative-Studio-Logo.png" alt="DeshiJS Logo" height="150" />
+  <h1>DeshiJS</h1>
+  <p>A smooth, minimal framework for infusing JavaScript with dynamic behavior.</p>
+</div>
+
 ## Hi there 👋
 ### Welcome to the sleek and minimal framework that brings dynamic behavior to JavaScript! ✨
 
@@ -9,7 +15,7 @@
 - Dynamic State Management: Manage and update your state with ease.
 - Explore more and start building with DeshiJS today! 🚀
 
-<img src="https://i.postimg.cc/Pq1ZWCg3/Black-and-White-Initial-D-Creative-Studio-Logo.png" alt="DeshiJS Logo" height="150">
+
 
 ---
 
