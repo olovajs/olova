@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# A smooth, minimal framework for infusing JavaScript with dynamic behaviorA smooth, minimal framework for infusing JavaScript with dynamic behavior
+## A smooth, minimal framework for infusing JavaScript with dynamic behaviorA smooth, minimal framework for infusing JavaScript with dynamic behavior
 
 ![](https://i.postimg.cc/Pq1ZWCg3/Black-and-White-Initial-D-Creative-Studio-Logo.png)
 
