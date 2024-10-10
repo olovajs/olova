@@ -1,4 +1,5 @@
-# OlovaJS &mdash; A Smooth, Minimal Framework for Dynamic JavaScript Behavior
+# OlovaJS &mdash;
+A Smooth, Minimal Framework for Dynamic JavaScript Behavior
 
 **OlovaJS** is a lightweight and minimalistic JavaScript framework that makes
 dynamic behavior easy to manage and integrate into your web projects.
