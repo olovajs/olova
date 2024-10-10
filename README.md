@@ -16,16 +16,17 @@
 
 <h2>🛠️ Quick Start Example</h2>
 
-<pre><code>&lt;div id="app"&gt;
-  &lt;template&gt;
-    &lt;div&gt;
-      &lt;div&gt;{ count }&lt;/div&gt;
-      &lt;button @click="increment"&gt;Increment&lt;/button&gt;
-    &lt;/div&gt;
-  &lt;/template&gt;
-&lt;/div&gt;
+```html
+<div id="app">
+  <template>
+    <div>
+      <div>{ count }</div>
+      <button @click="increment">Increment</button>
+    </div>
+  </template>
+</div>
 
-&lt;script type="module"&gt;
+<script type="module">
   import { createApp } from "//unpkg.com/olova";
 
   const app = createApp({
@@ -39,5 +40,5 @@
     },
   });
   app.mount("#app");
-&lt;/script&gt;
-</code></pre>
+</script>
+```
