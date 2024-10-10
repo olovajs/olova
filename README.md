@@ -1,33 +1,31 @@
-# OlovaJS &mdash;
-A Smooth, Minimal Framework for Dynamic JavaScript Behavior
-
-**OlovaJS** is a lightweight and minimalistic JavaScript framework that makes
-dynamic behavior easy to manage and integrate into your web projects.
-
-## 🚀 Features
-
-- **Smooth Integration**: Quickly add dynamic functionality to your JavaScript
-  projects without the bloat.
-- **Minimalistic Design**: Focus on the essentials with a clean and simple
-  setup.
-- **Dynamic State Management**: Easily manage and update your state as your
-  application grows.
-
-Explore more and start building with **OlovaJS** today!
-
-## 🛠️ Quick Start Example
-
-```html
-<div id="app">
-  <template>
-    <div>
-      <div>{ count }</div>
-      <button @click="increment">Increment</button>
-    </div>
-  </template>
+<div style="text-align: center;">
+  <h1>OlovaJS &mdash;</h1>
 </div>
+<p>A Smooth, Minimal Framework for Dynamic JavaScript Behavior</p>
 
-<script type="module">
+<p><strong>OlovaJS</strong> is a lightweight and minimalistic JavaScript framework that makes dynamic behavior easy to manage and integrate into your web projects.</p>
+
+<h2>🚀 Features</h2>
+<ul>
+  <li><strong>Smooth Integration</strong>: Quickly add dynamic functionality to your JavaScript projects without the bloat.</li>
+  <li><strong>Minimalistic Design</strong>: Focus on the essentials with a clean and simple setup.</li>
+  <li><strong>Dynamic State Management</strong>: Easily manage and update your state as your application grows.</li>
+</ul>
+
+<p>Explore more and start building with <strong>OlovaJS</strong> today!</p>
+
+<h2>🛠️ Quick Start Example</h2>
+
+<pre><code>&lt;div id="app"&gt;
+  &lt;template&gt;
+    &lt;div&gt;
+      &lt;div&gt;{ count }&lt;/div&gt;
+      &lt;button @click="increment"&gt;Increment&lt;/button&gt;
+    &lt;/div&gt;
+  &lt;/template&gt;
+&lt;/div&gt;
+
+&lt;script type="module"&gt;
   import { createApp } from "//unpkg.com/olova";
 
   const app = createApp({
@@ -41,4 +39,5 @@ Explore more and start building with **OlovaJS** today!
     },
   });
   app.mount("#app");
-</script>
+&lt;/script&gt;
+</code></pre>
