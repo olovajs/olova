@@ -42,4 +42,3 @@ Explore more and start building with **OlovaJS** today!
   });
   app.mount("#app");
 </script>
-```
